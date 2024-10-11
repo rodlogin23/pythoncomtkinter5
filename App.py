@@ -1,3 +1,4 @@
+# teste
 from Usuarios import Usuarios
 from tkinter import *
 
@@ -210,5 +211,3 @@ def buscarUsuario(self):
 root = Tk()
 Application(root)
 root.mainloop()
-
-
